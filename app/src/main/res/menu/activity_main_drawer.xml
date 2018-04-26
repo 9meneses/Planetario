@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mercurio"
+            android:icon="@drawable/mundial"
+            android:title="Mercurio" />
+        <item
+            android:id="@+id/venus"
+            android:icon="@drawable/mundial"
+            android:title="Venus" />
+        <item
+            android:id="@+id/tierra"
+            android:icon="@drawable/mundial"
+            android:title="La Tierra" />
+        <item
+            android:id="@+id/jupiter"
+            android:icon="@drawable/mundial"
+        android:title="Jupiter" />
+        <item
+            android:id="@+id/marte"
+            android:icon="@drawable/mundial"
+            android:title="Marte" />
+        <item
+            android:id="@+id/neptuno"
+            android:icon="@drawable/mundial"
+            android:title="Neptuno" />
+        <item
+            android:id="@+id/pluton"
+            android:icon="@drawable/mundial"
+            android:title="Pluton" />
+        <item
+            android:id="@+id/saturno"
+            android:icon="@drawable/mundial"
+            android:title="Saturno"
+            />
+        <item
+            android:id="@+id/urano"
+            android:icon="@drawable/mundial"
+            android:title="Urano" />
+
+
+
+    </group>
+
+   
+
+</menu>
